@@ -1,4 +1,5 @@
 require 'bundler'
+gem "rspec"
 
 describe "Bundler" do
   before :all do
